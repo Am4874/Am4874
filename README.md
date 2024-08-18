@@ -96,7 +96,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/Am4874)
 
 [![Reddit](https://img.icons8.com/doodle/48/reddit--v4.png)](https://www.reddit.com/user/ErrorOwn9052/)
-[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)]()
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/amitto_001/)
 [![Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discord.gg/YYdpxjXB)
 [![]()]()
 
