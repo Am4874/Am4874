@@ -42,8 +42,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/><img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
 
 ![MongoDb](https://img.icons8.com/color/48/mongo-db.png)
 ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)
