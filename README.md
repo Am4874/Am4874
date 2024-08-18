@@ -58,13 +58,9 @@
 ![Azure](https://img.icons8.com/fluency/48/azure-1.png)
 ![Ngnix](https://img.icons8.com/color/48/nginx.png)
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-11.png" alt="windows-11"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-11.png" alt="windows-11"/>
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/canva.png" alt="canva"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/canva.png" alt="canva"/><img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
 
 <!-- **Projects:** -->
 <!--
