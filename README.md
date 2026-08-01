@@ -7,7 +7,7 @@
 I'm a results-driven **Software Developer** specializing in building scalable web applications and multi-tenant architectures. I bridge the gap between robust backend logic and seamless frontend experiences using modern JavaScript and PHP ecosystems.
 
 <p align="center">
-  <a href="https://an-amit.vercel.app">
+  <a href="https://amit-folio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
